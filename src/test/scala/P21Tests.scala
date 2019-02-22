@@ -30,4 +30,5 @@ class P21Tests extends FunSuite {
       insertAtRecursive("new", 10, List())
     }
   }
+
 }
